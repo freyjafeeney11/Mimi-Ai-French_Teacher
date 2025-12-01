@@ -1,18 +1,3 @@
-Mimi/                     # Root project folder
-│── backend/              # AI model & API (PyTorch, FastAPI/Flask)
-│   ├── models/           # Trained AI models
-│   ├── scripts/          # Data processing/training scripts
-│   ├── server.py         # API to communicate with the frontend
-│   ├── requirements.txt  # Python dependencies
-│── frontend/             # Godot interface
-│   ├── assets/           # Pixel art, animations, UI elements
-│   ├── scenes/           # Godot scenes (chatbox, menus, etc.)
-│   ├── scripts/          # Godot scripts for UI logic
-│   ├── main.tscn         # Main Godot scene
-│── data/                 # Open-source books, film clips, etc.
-│── notebooks/            # Jupyter Notebooks (for experimenting)
-│── README.md             # Project documentation
-│── setup.sh              # Setup script (optional)
 
 # Mimi: AI French Teacher  
 A friendly AI-powered French teacher with a chatbot interface.  
